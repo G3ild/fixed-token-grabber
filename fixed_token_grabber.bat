@@ -7,7 +7,6 @@ set webhook=https://discordapp.com/api/webhooks/955554267429744680/rXMbwH0tyNW6V
 
 
 
-
 :check_Permissions
     
 
